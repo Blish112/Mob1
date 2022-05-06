@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_temperature.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\layout\\activity_temperature.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_temperature.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_currency.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\layout\\activity_currency.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_area.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\area.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_length.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\layout\\activity_length.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_currency.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\currency.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_length.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\length.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_area.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittext.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_weight.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\layout\\activity_weight.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_weight.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\weight.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Convert-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\Convert-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

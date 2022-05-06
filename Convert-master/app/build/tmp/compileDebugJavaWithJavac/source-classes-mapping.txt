@@ -1,0 +1,14 @@
+com/egor/converter/BuildConfig.java
+ com.egor.converter.BuildConfig
+com/egor/converter/Weight.java
+ com.egor.converter.Weight
+com/egor/converter/Temperature.java
+ com.egor.converter.Temperature
+com/egor/converter/Currency.java
+ com.egor.converter.Currency
+com/egor/converter/Area.java
+ com.egor.converter.Area
+com/egor/converter/MainActivity.java
+ com.egor.converter.MainActivity
+com/egor/converter/Length.java
+ com.egor.converter.Length

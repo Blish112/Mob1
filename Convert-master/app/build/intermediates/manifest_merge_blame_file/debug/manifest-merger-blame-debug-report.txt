@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.egor.converter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:5:5-52:19
+12        android:allowBackup="true"
+12-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\voros\.gradle\caches\transforms-3\21249a56641fb0309777a5ae16ce99ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.Converter" >
+21-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:11:9-47
+22        <activity
+22-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:12:9-17:40
+23            android:name="com.egor.converter.Area"
+23-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:16:13-33
+24            android:exported="false"
+24-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:17:13-37
+25            android:label="Площадь"
+25-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:14:13-36
+26            android:parentActivityName="com.egor.converter.MainActivity"
+26-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:15:13-55
+27            android:screenOrientation="portrait" />
+27-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:13:13-49
+28        <activity
+28-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:18:9-23:40
+29            android:name="com.egor.converter.Length"
+29-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:22:13-35
+30            android:exported="false"
+30-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:23:13-37
+31            android:label="Длина"
+31-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:20:13-34
+32            android:parentActivityName="com.egor.converter.MainActivity"
+32-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:21:13-55
+33            android:screenOrientation="portrait" />
+33-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:19:13-49
+34        <activity
+34-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:24:9-29:40
+35            android:name="com.egor.converter.Temperature"
+35-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:28:13-40
+36            android:exported="false"
+36-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:29:13-37
+37            android:label="Температура"
+37-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:26:13-40
+38            android:parentActivityName="com.egor.converter.MainActivity"
+38-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:27:13-55
+39            android:screenOrientation="portrait" />
+39-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:25:13-49
+40        <activity
+40-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:30:9-35:40
+41            android:name="com.egor.converter.Currency"
+41-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:34:13-37
+42            android:exported="false"
+42-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:35:13-37
+43            android:label="Валюта"
+43-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:32:13-35
+44            android:parentActivityName="com.egor.converter.MainActivity"
+44-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:33:13-55
+45            android:screenOrientation="portrait" />
+45-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:31:13-49
+46        <activity
+46-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:36:9-41:40
+47            android:name="com.egor.converter.Weight"
+47-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:40:13-35
+48            android:exported="false"
+48-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:41:13-37
+49            android:label="Вес"
+49-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:38:13-32
+50            android:parentActivityName="com.egor.converter.MainActivity"
+50-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:39:13-55
+51            android:screenOrientation="portrait" />
+51-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:37:13-49
+52        <activity
+52-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:42:9-51:20
+53            android:name="com.egor.converter.MainActivity"
+53-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:43:13-41
+54            android:exported="true"
+54-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:44:13-36
+55            android:screenOrientation="portrait" >
+55-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:45:13-49
+56            <intent-filter>
+56-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:46:13-50:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:47:17-69
+57-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:47:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:49:17-77
+59-->D:\AndroidStudioProjects\Convert-master\app\src\main\AndroidManifest.xml:49:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+65            android:authorities="com.egor.converter.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\voros\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\voros\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\voros\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\voros\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+73        </provider>
+74    </application>
+75
+76</manifest>

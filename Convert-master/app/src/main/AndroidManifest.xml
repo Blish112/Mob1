@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.egor.converter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Converter">
+        <activity
+            android:screenOrientation="portrait"
+            android:label="Площадь"
+            android:parentActivityName=".MainActivity"
+            android:name=".Area"
+            android:exported="false" />
+        <activity
+            android:screenOrientation="portrait"
+            android:label="Длина"
+            android:parentActivityName=".MainActivity"
+            android:name=".Length"
+            android:exported="false" />
+        <activity
+            android:screenOrientation="portrait"
+            android:label="Температура"
+            android:parentActivityName=".MainActivity"
+            android:name=".Temperature"
+            android:exported="false" />
+        <activity
+            android:screenOrientation="portrait"
+            android:label="Валюта"
+            android:parentActivityName=".MainActivity"
+            android:name=".Currency"
+            android:exported="false" />
+        <activity
+            android:screenOrientation="portrait"
+            android:label="Вес"
+            android:parentActivityName=".MainActivity"
+            android:name=".Weight"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
