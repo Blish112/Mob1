@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string-array name="filter">
+        <item>Текущие задачи</item>
+        <item>Выполненные задачи</item>
+    </string-array>
+</resources>
